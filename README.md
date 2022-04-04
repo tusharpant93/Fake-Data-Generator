@@ -10,3 +10,9 @@ Manually creating realistic datasets of adequate amount and variety is tough (e.
 We create a Faker class object and call the different methods to generate the sort of mock data we want after it's deployed.
 
 Furthermore, Faker has its own pytest plugin, which provides a faker fixture you can use in your tests.
+
+
+
+
+![image](https://user-images.githubusercontent.com/72465037/161592848-a3909eec-46dd-470e-b0d2-a45912a2cfa2.png)
+
