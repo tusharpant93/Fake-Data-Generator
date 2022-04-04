@@ -14,5 +14,11 @@ Furthermore, Faker has its own pytest plugin, which provides a faker fixture you
 
 
 
-![image](https://user-images.githubusercontent.com/72465037/161592848-a3909eec-46dd-470e-b0d2-a45912a2cfa2.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/72465037/161592997-c8152bff-d259-4353-a33e-d5e650f2f3d3.png)
+
 
